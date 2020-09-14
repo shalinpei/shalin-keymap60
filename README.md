@@ -1,7 +1,7 @@
 # shalin-keymap60
 Personal keymap for DZ60 60% Mechanical Keyboard PCB
 
-# 2020/09/12
+## 2020/09/12
 - Layer 0
   - removed right Ctrl, Alt, Fn, Menu
   - added arrow keys
