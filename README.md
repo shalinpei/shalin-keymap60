@@ -1,11 +1,10 @@
 # shalin-keymap60
 Personal keymap for DZ60 60% Mechanical Keyboard PCB
 
-## 2021/01/01
-- Layer 0 
-  - no changes
-- Layer 1
-  - Remove backlight controls (for easier access to Target Display Mode)
+## Next:
+- remove backlight controls
+- easy access to Target Display Mode
+- easy access to Reset or bootloader mode
 
 ## 2020/09/12
 - Layer 0
@@ -17,4 +16,3 @@ Personal keymap for DZ60 60% Mechanical Keyboard PCB
   - Brightness/Volume controls
   - Backlight controls
   - RGB underglow controls
-  
